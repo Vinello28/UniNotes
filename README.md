@@ -1,7 +1,7 @@
-# Appunti-PoliMi
+# Appunti
 
 ## Description
-This repository contains notes and study materials for various courses at Politecnico di Milano (PoliMi). The aim is to provide a comprehensive collection of resources to help students in their studies.
+This repository contains notes and study materials for various courses at Politecnico di Milano (PoliMi) and Università Politecnica delle Marche (UnivPM). The aim is to provide a comprehensive collection of resources to help students in their studies.
 
 ## Installation
 To clone this repository, use the following command:
