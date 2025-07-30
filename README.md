@@ -6,7 +6,7 @@ This repository contains notes and study materials for various courses at Polite
 ## Installation
 To clone this repository, use the following command:
 ```
-git clone https://github.com/Vinello28/Appunti-PoliMi.git
+git clone https://github.com/Vinello28/UniNotes.git
 ```
 
 ## Usage
